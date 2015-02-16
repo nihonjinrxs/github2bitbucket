@@ -21,4 +21,4 @@ This script was authored by me ([nihonjinrxs](https://github.com/nihonjinrxs)) f
 Please feel free to contribute by creating issues for bugs or enhancements, or by submitting pull requests. Fork for fun!
 
 ## License
-This script is licensed under the MIT license.  See [LICENSE](blob/master/LICENSE) for details.
+This script is licensed under the MIT license.  See [LICENSE](LICENSE) for details.
